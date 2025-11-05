@@ -165,7 +165,7 @@ export default function MainScreen() {
                   marginBottom: 8,
                 }}
               >
-                <Text style={{ color: "#fff" }}>{option}</Text>
+                <Text style={{ color: "#070707ff" }}>{option}</Text>
               </TouchableOpacity>
             );
           })}
